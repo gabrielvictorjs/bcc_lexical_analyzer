@@ -1,0 +1,9 @@
+String name2 = 'Gabriel Victor';
+
+Number value = 2 + 5 * 123.5;
+
+Boolean positive = true;
+
+Boolean negative = false;
+
+        12.5      +  120
